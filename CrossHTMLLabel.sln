@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossHTMLLabel.iOS", "CrossHTMLLabel.iOS\CrossHTMLLabel.iOS.csproj", "{5890F443-2A6B-486D-8D61-26990CD36B51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossHTMLLabel.Droid", "CrossHTMLLabel.Droid\CrossHTMLLabel.Droid.csproj", "{849F0FEA-006E-41D8-969B-55765C8D20B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossHTMLLabel.Org.Sufficientlysecure.HtmlTextView", "CrossHTMLLabel.Org.Sufficientlysecure.HtmlTextView\CrossHTMLLabel.Org.Sufficientlysecure.HtmlTextView.csproj", "{DB52FEAC-0E38-4B25-8BFC-EBD0521F33DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -19,5 +23,21 @@ Global
 		{5890F443-2A6B-486D-8D61-26990CD36B51}.Debug|iPhone.Build.0 = Debug|iPhone
 		{5890F443-2A6B-486D-8D61-26990CD36B51}.Release|iPhone.ActiveCfg = Release|iPhone
 		{5890F443-2A6B-486D-8D61-26990CD36B51}.Release|iPhone.Build.0 = Release|iPhone
+		{849F0FEA-006E-41D8-969B-55765C8D20B2}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{849F0FEA-006E-41D8-969B-55765C8D20B2}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{849F0FEA-006E-41D8-969B-55765C8D20B2}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{849F0FEA-006E-41D8-969B-55765C8D20B2}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{849F0FEA-006E-41D8-969B-55765C8D20B2}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{849F0FEA-006E-41D8-969B-55765C8D20B2}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{849F0FEA-006E-41D8-969B-55765C8D20B2}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{849F0FEA-006E-41D8-969B-55765C8D20B2}.Release|iPhone.Build.0 = Release|Any CPU
+		{DB52FEAC-0E38-4B25-8BFC-EBD0521F33DB}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{DB52FEAC-0E38-4B25-8BFC-EBD0521F33DB}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{DB52FEAC-0E38-4B25-8BFC-EBD0521F33DB}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{DB52FEAC-0E38-4B25-8BFC-EBD0521F33DB}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{DB52FEAC-0E38-4B25-8BFC-EBD0521F33DB}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{DB52FEAC-0E38-4B25-8BFC-EBD0521F33DB}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{DB52FEAC-0E38-4B25-8BFC-EBD0521F33DB}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{DB52FEAC-0E38-4B25-8BFC-EBD0521F33DB}.Release|iPhone.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
